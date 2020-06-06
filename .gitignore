@@ -1,0 +1,6 @@
+*.csv
+.RData
+.Rhistory
+table_with_frequencies.txt
+wordlist.txt
+
